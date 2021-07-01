@@ -26,8 +26,29 @@ You have to cut out story clutter just as you would chart clutter and clearly de
     - Who are SMEs?
     - What data is available?
 - Why includes goals and objectives.
-- How includes point of view.
+- How includes the format and point of view.
     - Will you be presenting static slides, paper report, or an interactive dashboard?
 - You might start with story points to build and organize your story in Tableau.
 - You will need to refine and optimize as you build.
     - This will mean adding and removing story elements, visuals, etc.
+
+### Expressiveness and Effectiveness
+
+- Do you have data to express your story accurately?
+- Does presentation style effectively convey data's meaning?
+
+### Starting with Your Stakeholders
+
+- They can help you refine drivers for the viz.
+- Provide key requirements and purpose.
+- Provide details about data available.
+- Identify and clarify audience characteristics.
+- Inventory stakeholder requirements, source materials, and goals.
+- Assess your level of domain knowledge and understanding of the business case.
+
+#### Questions to Ask Stakeholders
+
+- Which elements, details, and results must be included in the story?
+- What the timeline for the project/presentation?
+- Summary of story points and goal for data story.
+- Benchmarks or metrics to measure success.

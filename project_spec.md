@@ -11,8 +11,11 @@ Sylvia will have only 5-7 minutes to present to board members, and she knows tha
 ## Deliverables
 
 - **Module 1:** You will first create a design checklist to guide your exploration of the data and your design decisions for the final deliverables. 
+
 - **Module 2:** You will then explore the data and create KPIs to track key indicators and identify meaningful relationships. 
+
 - **Module 3:** You will draft the narrative arc of your analysis, using the Three C’s of Context, Challenge and Conclusion. 
+
 - **Module 4:** You will create the final deliverables for Sylvia to present your analysis to company stakeholders. Sylvia will ultimately be presenting these findings both on handouts as a single-frame visualization, and in a multi-slide Story Points presentation to board members. The single-frame visualization will be included on hand-outs in the board meeting.  
 
 ## Context
@@ -23,29 +26,37 @@ Monthly Board Meeting with 15 people looking at a large screen across a large ro
 
 ### Sylvia
 
-Role: VP of Sales
-Organization: ACME Superstore (My company)
-Goals: 
-    - Use sales data to make more nimble inventory and distribution decisions.
-    - Anticipate next moves in sales based on trends.
-    - Make a case for sales strategy to collegaues.
-Challenges and Needs:
-    - Limited face time with execs
-    - Not great with numbers, great with sales
-    - Find meaning in data to create a strategy for sales
+**Role:** VP of Sales
+
+**Organization:** ACME Superstore (My company)
+
+**Goals:**
+- Use sales data to make more nimble inventory and distribution decisions.
+- Anticipate next moves in sales based on trends.
+- Make a case for sales strategy to collegaues.
+
+**Challenges and Needs:**
+- Limited face time with execs
+- Not great with numbers, great with sales
+- Find meaning in data to create a strategy for sales
     
 ### Terrence
-Role: Active Board Member
-Age: 56
-Gender: Male
-Education: MBA
-Goals:
-    - Quick, clear, credible updates
-    - Ensure financial stability and efficiency
-    - End fraud and abuse of company policy
-    - Prefers data-driven decisions
-Challenges and Needs:
-    - Needs large font in viz
-    - Needs to see data on profitablity of discounts
-    - Is the company discount policy being abused?
+**Role:** Active Board Member
+
+**Age:** 56
+
+**Gender:** Male
+
+**Education:** MBA
+
+**Goals:**
+- Quick, clear, credible updates
+- Ensure financial stability and efficiency
+- End fraud and abuse of company policy
+- Prefers data-driven decisions
+
+**Challenges and Needs:**
+- Needs large font in viz
+- Needs to see data on profitablity of discounts
+- Is the company discount policy being abused?
 

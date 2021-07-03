@@ -18,7 +18,12 @@ You have to cut out story clutter just as you would chart clutter and clearly de
 
 > "[S]tory is the number one business tool in the world." [source](https://adage.com/article/digitalnext/put-emotion-storytelling/304463)
 
+> Edward Tufte says that excellent visualizations express “complex ideas communicated with clarity, precision and efficiency.” Tell your story through the graphical depiction of statistical information.
+
 ##### Basic Story Elements
+
+**Overview -> Zoom and Filter -> Details on Demand**
+
 - The Hook: Catch the audiences attention and get them to care about the action or characters in your story.
 - Change: Showing change in characters in your story can inspire change in your audiences actions, as well.
 - Connection: Use personal and/or shared experiences to connect your audience to your story characters or cause.
@@ -31,6 +36,23 @@ You have to cut out story clutter just as you would chart clutter and clearly de
 - **Show the Promised Land before explaining how you'll get there:** Show the solution or the path to the solution before you dig into the "How" of the solution. Bottom Line Up Front. Show your audience where you're headed.
 - **Identify Obstacles and Solutions to Each:** Lay out the obstacles and your solution to each, one at a time.
 - **Present Your Evidence:** 
+
+##### Journalistic Storytelling
+- **Find the compelling narrative:** Finding a narrative structure will help you decide if there is a story to be told based on the data or if a dashboard for EDA would be more appropriate. However, if a dashboard can do the job, think gamification. It still needs to be compelling and inviting. User personalization.
+- **Think About Your Audience:** Your visualizatioins need to be framed around the level of information your audience already has as well as their level of sophistication with viewing data visualizations.
+    - Novice: first exposure to the subject, but doesn’t want oversimplification
+    - Generalist: aware of the topic, but looking for an overview understanding and major themes
+    - Managerial: in-depth, actionable understanding of intricacies and interrelationships with access to detail
+    - Expert: more exploration and discovery and less storytelling with great detail
+    - Executive: only has time to glean the significance and conclusions of weighted probabilities
+- **Be Objective and Offer Balance:** Be objective and aware of bias in your visualization. Tufte's Lie Factor measures how misleading a visualization can be to an audience.
+    - Label elements of the viz clearly to avoid ambiguity or misunderstandings.
+    - Match graphic dimensions with data dimensions.
+    - Use standard units of measure.
+    - Keep design elements from compromising the data.
+- **Don't Censor:** Don't be selective about the data you include and exclude unless confident that you are giving your audience the best representation of what the data says.
+    - Think about how you deal with missing data, outliers, temporal ranges, intervals, creating discrete variables from continuous, etc.
+- **Edit, edit, edit:** Don't think that decorating your data, dressing it up to look good, is more important that finding the best way to explain the data or reveal the story of your data.
 
 ## Pre-Planning - Stakeholders Goals & User Needs
 

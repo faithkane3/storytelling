@@ -2,6 +2,11 @@
 
 > "Data tell you what's happening; stories tell you why it matters."
 
+> Florence Nightingale claimed to use data visualization “to affect thro’ the Eyes what we fail to convey to the public through their word-proof ears.”
+
+> "The goal of advertising is not to convince people, or make them think something. It's to make them feel something.
+And for engendering emotion, there's no more powerful tool than the story. In other words, we make choices based on feelings, and then later we justify those feelings with the rational, left side of our brain." [source](https://adage.com/article/digitalnext/put-emotion-storytelling/304463)
+
 ## The 3Cs of Storytelling
 1. Context
 1. Challenge
@@ -10,6 +15,22 @@
 #### Stories should be Clear, Compelling, and Accurate.
 
 You have to cut out story clutter just as you would chart clutter and clearly define the who, what, and why of your story. You also must keep your audience central to the planning of your story and presentation.
+
+> "[S]tory is the number one business tool in the world." [source](https://adage.com/article/digitalnext/put-emotion-storytelling/304463)
+
+##### Basic Story Elements
+- The Hook: Catch the audiences attention and get them to care about the action or characters in your story.
+- Change: Showing change in characters in your story can inspire change in your audiences actions, as well.
+- Connection: Use personal and/or shared experiences to connect your audience to your story characters or cause.
+- Story Structure: Good story plots involve conflict and change, trying, failing, and succeeding.
+- Authenticity: Keep it real, not real over the top when it comes to emotion.
+
+##### Elon Musk Story Telling Elements
+- **Name the Enemy:** Don't start your pitch talking about yourself, your team, or your product; start by talking about what's in the way of your audience's/stakeholders' happiness and goals. Who/What is to blame and why?
+- **Answer the question, "Why Now?":** Proactively address your audience's/stakeholders' skepticism that you can answer/change something that no one else has been able to. People often thing that everything that can be done has been tried, so tell them what's different about this time, about your solution.
+- **Show the Promised Land before explaining how you'll get there:** Show the solution or the path to the solution before you dig into the "How" of the solution. Bottom Line Up Front. Show your audience where you're headed.
+- **Identify Obstacles and Solutions to Each:** Lay out the obstacles and your solution to each, one at a time.
+- **Present Your Evidence:** 
 
 ## Pre-Planning - Stakeholders Goals & User Needs
 
@@ -100,6 +121,7 @@ You have to cut out story clutter just as you would chart clutter and clearly de
     - How will the data be framed?
     - What type of actions and decisions might my story prompt?
     
+    
 - Not all patterns in the data make true stories. More data, more risk of false narratives and the temptation to turn insufficient data into false narratives.
 - Where is the most useful data to be found? (Survivor Bias) Help the audience recognize and reframe the full data story using context and key points.
 - Weight and evaulate available data and work to fill in the gaps.
@@ -120,3 +142,22 @@ You have to cut out story clutter just as you would chart clutter and clearly de
 - What level of detail will be most effective for your data story? This really depends on the eyes of the beholders.
 - "Everything should be made as simple as possible but not simpler." You have to provide what the audience needs, not more, not less.
 - The story arc you choose should depend on your audience and context.
+
+## Personalizing Dashboards
+
+- **Start with the questions, not the metrics.**
+- Change the headings on filters to questions or prompts for your users.
+- Use aliases in your filter values to make them more usable.
+- Ability for side-by-side comparisons on a dashboard, country 1 on the left, same prompts on the right for country 2.
+- Add the filter to the headings or titles, so if user changes the filter, it changes the heading for what they are looking at.
+- Test your stuff on other people; what might be obvious to you may not be to those not familiar with your data.
+- Customize and USE Tool Tips. You can even add viz to your tool tip to really add another layer of information.
+- Narrative Science - Natural Language Generation.
+- Perform a Heuristic Evaluation - Assess the viz and note what works well and what could be improved.
+
+## Recommended Readings for Understanding the Science Behind the Human Brain
+
+- This recommended reading provides some scientific explanation for why and how humans make decisions for reasons other than pure logic and facts.  Emotion, behavioral factors, and psychological factors also play an important role in decision making, and this article touches on why we believe that to be true. Dawes, Robyn M., A Message From Psychologists to Economists: Mere Predictability Doesn’t Matter Like it Should (Without a Good Story Appended to it), Journal of Economic Behavior & Organization Vol. 39 (1999) 29-40
+- This article examines the intersection of emotion and storytelling in the context of human decision making.  While this article focuses on the marketing context, much of the underlying information is true for storytelling across all disciplines. Luhn, Matthew, How to Put More Emotion in Storytelling: Digital Advertisers Have Forgotten How to Make People Feel Something, Advertising Age, 2016 (http://adage.com/article/digitalnext/put-emotion-storytelling/304463/)
+- This article from the VP of Research and Design at Tableau Software, Jock Mackinlay, confirms the importance of storytelling in making a human connection with data. The article provides some useful considerations for crafting data stories and reinforces many of the techniques included in this lesson. Mackinlay, Jock, Kosara, Robert, Wallace, Michelle, Data Storytelling: Using Visualization to Share the Human Impact of Numbers, Tableau Software (Mackinlay, Jock, Kosara, Robert, Wallace, Michelle, Data Storytelling: Using Visualization to Share the Human Impact of Numbers, Tableau)
+- This Harvard Business Review article emphasizes among other things, the importance of considering the audience when crafting data stories.  Think about how the author describes the various audience profiles, and how you might incorporate that into your design checklist. Strikeleather, Jim, How to Tell a Story With Data, Harvard Business Review, 2013 (https://hbr.org/2013/04/how-to-tell-a-story-with-data)

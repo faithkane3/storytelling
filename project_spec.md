@@ -60,3 +60,30 @@ Monthly Board Meeting with 15 people looking at a large screen across a large ro
 - Needs to see data on profitablity of discounts
 - Is the company discount policy being abused?
 
+## My Project Design Checklist
+
+#### What is/are the business question(s) this project will answer?
+
+- Is there a relationship between discounted sales and profits?
+- How much money is the company losing or profiting based on discounted sales?
+- Are there opportunities for efficiencies with respect to how discounts are handled?
+- Are there product categories that are receiving more discounts than others?
+- Are there customers that are receiving more discounts than others?
+
+#### What data will be used to answer this question?  Is the data capable of providing the information you are looking for? 
+
+- I will be using the Superstore dataset provided.
+- I believe I will be able to answer questions about discounts by category or segment and even by customer or customer segment, but I’m not sure I’ll be able to identify opportunities for efficiencies with respect to how discounts are handled or if there is fraud going on within the company regarding discounts. I’m not sure what the company policies are nor am I sure about how to detect fraud based on the expectations of discount policies.
+
+
+#### Who is the audience of this visualization (to whom are these findings ultimately being presented)?
+
+- Monthly Board Meeting with 15 people looking at a large screen across a large room who will also have a printed summary handout.
+
+
+#### How will your findings ultimately be displayed?  Please list any special requirements of the user.
+
+- Monthly Board Meeting with 15 people looking at a large screen across a large room who will also have a printed summary handout.
+- 5-7 minutes to present to board members who don’t understand the minutiae of the business and prefer quickly hearing only the top-level facts.
+- Terrence, board member, needs larger font on visualizations.
+- Sylvia, VP of sales, doesn’t have a great understanding of numbers, and is more interested in how the data can support specific sales strategies.

@@ -77,8 +77,8 @@ You have to cut out story clutter just as you would chart clutter and clearly de
 
 ### Expressiveness and Effectiveness
 
-- Do you have data to express your story accurately?
-- Does presentation style effectively convey data's meaning?
+- Do you have data to express your story accurately? Can you display the relevant data to aid in an accurate understanding by your audience?
+- Does presentation style effectively convey data's meaning? Does your visualization convey the meaning of the data well enough?
 
 ### Starting with Your Stakeholders
 

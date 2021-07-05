@@ -183,3 +183,27 @@ You have to cut out story clutter just as you would chart clutter and clearly de
 - This article examines the intersection of emotion and storytelling in the context of human decision making.  While this article focuses on the marketing context, much of the underlying information is true for storytelling across all disciplines. Luhn, Matthew, How to Put More Emotion in Storytelling: Digital Advertisers Have Forgotten How to Make People Feel Something, Advertising Age, 2016 (http://adage.com/article/digitalnext/put-emotion-storytelling/304463/)
 - This article from the VP of Research and Design at Tableau Software, Jock Mackinlay, confirms the importance of storytelling in making a human connection with data. The article provides some useful considerations for crafting data stories and reinforces many of the techniques included in this lesson. Mackinlay, Jock, Kosara, Robert, Wallace, Michelle, Data Storytelling: Using Visualization to Share the Human Impact of Numbers, Tableau Software (Mackinlay, Jock, Kosara, Robert, Wallace, Michelle, Data Storytelling: Using Visualization to Share the Human Impact of Numbers, Tableau)
 - This Harvard Business Review article emphasizes among other things, the importance of considering the audience when crafting data stories.  Think about how the author describes the various audience profiles, and how you might incorporate that into your design checklist. Strikeleather, Jim, How to Tell a Story With Data, Harvard Business Review, 2013 (https://hbr.org/2013/04/how-to-tell-a-story-with-data)
+
+## Key Metrics, Indicators, and Decision Triggers
+
+
+### KPIs
+- **Key Performance Indicators -** How well companies, projects, people etc. are performing compared to strategic goals and objectivs.
+    - It must be crucial or key, measuarable against your goals, and must have some calculation.
+    - Understanding the strategic pupose of KPIs is key and often not given enough thought.
+    - It must have a primary relavance for your organization.
+    - Performance tracking
+    - The indicator will flag any key perforamnce that falls outside of the defined performance parameters.
+
+### Tableau Calculated Fields and KPIs
+- 
+
+### Creating Complex KPIs Using Tableau
+- 
+
+### Thresholds and Alerts
+- 
+
+### Data Quality
+- 
+

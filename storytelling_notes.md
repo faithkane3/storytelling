@@ -194,6 +194,45 @@ You have to cut out story clutter just as you would chart clutter and clearly de
     - It must have a primary relavance for your organization.
     - Performance tracking
     - The indicator will flag any key perforamnce that falls outside of the defined performance parameters.
+    
+### Data Dashboards
+
+>  In his 2006 book, Information Dashboard Design,
+Stephen Few wrote: “A dashboard is a visual display of the most important information needed to achieve one or more objectives; consolidated and arranged on a single screen so the information can be monitored at a glance.”
+
+#### Key Features
+
+- objectives-focused
+- optimized for multiple data sources
+- visual
+- interactive
+- current
+- accessible to its audience
+
+#### 6 Best Practices
+
+- **Choose metrics that matter.**
+    - What are your organization’s core objectives?
+    - How do your campaigns and marketing efforts contribute to those objectives?
+    - Do you have data, either internal or external, that can shed light on the objectives?
+    - Can you design a meaningful metric that measures those contributions?
+    - Is this metric truly necessary to explain marketing’s contribution to the objectives?
+    - Can you build a systematic and on-going means of measurement?
+- **Have a clear understanding of executive objectives and how marketing contributes.**
+    - If your company is in growth mode and new customers are key, then measure your new customer acquisition rates.
+    - If top-line revenue is high on executive management’s priority list, then measure campaign revenue contribution.
+    - If you’re operating in a highly competitive market, then incorporate third party market share metrics
+- **Pull Data From all Sources to get the Full Picture.**
+    - Data blending, also known as data mash-up, is the ability to combine data from multiple data sources on a single view. The data is blended on a common field, therefore this should be used when you have related data in multiple data sources that you want to analyze together in a single view.
+- **Get Visual.**
+    - Because the human brain processes a single number, visualization or a picture as single “chunk” of information, the process of comprehension and insight is dramatically faster when data is visually displayed on a dashboard in various graphs and charts.
+- **Make it Interactive for Collaboration.**
+    - I can add filters and give them a workbook that allows them to look at their data in different ways, export chart images for their own presentations, or download crosstabs for their own needs.
+- **Current and Live.**
+    - Make sure that the data underlying your dashboards are current and that your selected metrics reflect timely business challenges.
+- **Simple to Access and Easy to Use.**
+    -  Just as in direct marketing, the key is to test, test, test. As you gain experience and learn what marketers are using, you can enhance the actual dashboard as well as your distribution approach.
+
 
 ### Tableau Calculated Fields and KPIs
 - 

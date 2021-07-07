@@ -177,11 +177,14 @@ You have to cut out story clutter just as you would chart clutter and clearly de
 - Narrative Science - Natural Language Generation.
 - Perform a Heuristic Evaluation - Assess the viz and note what works well and what could be improved.
 
-## Recommended Readings for Understanding the Science Behind the Human Brain
+## Recommended Readings for the Science Behind the Human Brain
 
 - This recommended reading provides some scientific explanation for why and how humans make decisions for reasons other than pure logic and facts.  Emotion, behavioral factors, and psychological factors also play an important role in decision making, and this article touches on why we believe that to be true. Dawes, Robyn M., A Message From Psychologists to Economists: Mere Predictability Doesn’t Matter Like it Should (Without a Good Story Appended to it), Journal of Economic Behavior & Organization Vol. 39 (1999) 29-40
+
 - This article examines the intersection of emotion and storytelling in the context of human decision making.  While this article focuses on the marketing context, much of the underlying information is true for storytelling across all disciplines. Luhn, Matthew, How to Put More Emotion in Storytelling: Digital Advertisers Have Forgotten How to Make People Feel Something, Advertising Age, 2016 (http://adage.com/article/digitalnext/put-emotion-storytelling/304463/)
+
 - This article from the VP of Research and Design at Tableau Software, Jock Mackinlay, confirms the importance of storytelling in making a human connection with data. The article provides some useful considerations for crafting data stories and reinforces many of the techniques included in this lesson. Mackinlay, Jock, Kosara, Robert, Wallace, Michelle, Data Storytelling: Using Visualization to Share the Human Impact of Numbers, Tableau Software (Mackinlay, Jock, Kosara, Robert, Wallace, Michelle, Data Storytelling: Using Visualization to Share the Human Impact of Numbers, Tableau)
+
 - This Harvard Business Review article emphasizes among other things, the importance of considering the audience when crafting data stories.  Think about how the author describes the various audience profiles, and how you might incorporate that into your design checklist. Strikeleather, Jim, How to Tell a Story With Data, Harvard Business Review, 2013 (https://hbr.org/2013/04/how-to-tell-a-story-with-data)
 
 ## Key Metrics, Indicators, and Decision Triggers
@@ -233,6 +236,15 @@ Stephen Few wrote: “A dashboard is a visual display of the most important info
 - **Simple to Access and Easy to Use.**
     -  Just as in direct marketing, the key is to test, test, test. As you gain experience and learn what marketers are using, you can enhance the actual dashboard as well as your distribution approach.
 
+#### Recommended Dashboard Creation Readings
+
+- This is a well known primer on dashboards. What’s very nice about it is that there are a series of checklists that someone can use to ensure that their dashboard is ready to be presented.Juice Analytics, A Guide to Creating Dashboards People Love to Use, https://static1.squarespace.com/static/52f42657e4b0b3416ff6b831/t/5310292ce4b08d35a87c9426/1393568044420/Guide_to_Dashboard_Design.pdf
+
+- A Tableau centric perspective on how to create dashboards. It’s shorter  than the Juice Analytics one so it’s not quite as thorough, but it’s very  helpful to have the Tableau perspective. Top 5 Best Practices for creating effective dashboards, https://www.tableau.com/sites/default/files/whitepapers/dashboards-for-financial-services.pdf    
+
+- Kanter’s piece is very short and very nice because it has the perfect  distillation of the essentials of dashboard design. I recommend  bookmarking this. It is an older piece, but still very relevant. Kanter, Beth. Dashboard Design Principles, http://www.bethkanter.org/dashboard-design/ 
+
+- Another short and sweet post that is more audience-centric than Kanter’s. 5 Key Principles of a Good Dashboard Design That We Need to Know: https://www.netsolutions.com/insights/good-dashboard-design-principles/
 
 ### Tableau Calculated Fields and KPIs
 - 
